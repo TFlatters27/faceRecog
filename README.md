@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img height=75% width=75% src="" alt="example"></a>
+ <img height=75% width=75% src="https://files.realpython.com/media/face-detection-abba.ea2dcc6d3bda.jpg" alt="example"></a>
 </p>
 
 <h3 align="center">Facial tracking and recognition</h3>
