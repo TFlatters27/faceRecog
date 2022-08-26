@@ -7,7 +7,7 @@
 
 ---
 
-<p align="center">This program uses machine learning and neural networks for facial recognition and facial tracking programmed in Python.
+<p align="center">This program uses machine learning and neural networks for facial recognition, facial tracking and expression evaluation programmed in Python.
     <br> 
 </p>
 
