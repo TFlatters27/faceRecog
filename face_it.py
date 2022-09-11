@@ -1,1 +1,0 @@
-#This project will be using libraries for facial tracking and recognition
